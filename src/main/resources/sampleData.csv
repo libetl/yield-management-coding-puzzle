@@ -1,0 +1,2 @@
+FlightNumber,Departure,Arrival,Origin,Destination,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability,BookingClass,Price,Availability
+AF1111,2018-07-10T12:20:00.000+02:00,2018-07-10T13:50:00.000+02:00,ORY,NCE,Y,EUR59.99,10,B,EUR69.99,10,M,EUR89.99,10,U,EUR229.99,10,K,EUR499.00,10
