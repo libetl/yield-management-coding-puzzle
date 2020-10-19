@@ -23,7 +23,7 @@ repositories {
 }
 
 dependencies {
-    compile "junit:junit:4.12"
+    compile "junit:junit:4.13.1"
     compile "org.joda:joda-money:0.12"
     compile "io.github.benas:random-beans:3.7.0"
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
